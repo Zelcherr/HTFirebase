@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">H&amp;TFirebase</string>
+    <string name="imgTemp">imagen temperatura</string>
+    <string name="imghumedad">imagen humedad</string>
+</resources>
